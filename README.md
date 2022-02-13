@@ -1,6 +1,6 @@
 ![alt text](https://s20.directupload.net/images/220109/hpwfzunf.png) Written by DeadEagle
 # BulkSearcher
-Search though files to find the Keyword your looking for!
+Search though files to find the Keyword you're looking for!
 
 
 
@@ -8,11 +8,11 @@ WHAT DOES IT DO
 -------------
 
 
- * Searching for a Keyword, but cant remember in which file its saved?
+ * Searching for a Keyword, but cant remember which file it is saved in?
       
-    - Enter your Keyword, Filetype, and Folder location to reading through files.
+    - Enter your Keyword, Filetype, and Folder location to read through the files.
       
-    - The software will notify you if it finds your Keyword while reading through the files of your requested Filetype. (Only in your requested folder) (as seen in screenshots below)
+    - The software will notify you if it finds your Keyword. while reading through the files of your requested Filetype. (Only in your requested folder) (as seen in screenshots below)
 
  
  * Count the Keywords!
@@ -29,7 +29,7 @@ WHAT DOES IT DO
        
    - Made for Windows
 
-   - Executable & Source code by DeadEagle
+   - Executable & Source code by DeadEagle#9730
     
    - This Software is [FREE] to use in ANY Case.
 
@@ -39,7 +39,7 @@ WHAT DOES IT DO
      https://discord.gg/FTmrYbEN8w
 
 
- * Experience any Problems? Join our Discord.
+ * Experiencing any Problems? Join our Discord.
    
    
    
