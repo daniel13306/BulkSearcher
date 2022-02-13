@@ -12,7 +12,7 @@ WHAT DOES IT DO
       
     - Enter your Keyword, Filetype, and Folder location to read through the files.
       
-    - The software will notify you if it finds your Keyword. while reading through the files of your requested Filetype. (Only in your requested folder) (as seen in screenshots below)
+    - The software will notify you if it finds your Keyword. While reading through the files of your requested Filetype. (Only in your requested folder) (as seen in screenshots below)
 
  
  * Count the Keywords!
