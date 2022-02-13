@@ -1,4 +1,4 @@
-![alt text](https://s20.directupload.net/images/220109/hpwfzunf.png) Written by DeadEagle
+![alt text](https://s20.directupload.net/images/220109/hpwfzunf.png) Written by DeadEagle#9730
 # BulkSearcher
 Search though files to find the Keyword you're looking for!
 
