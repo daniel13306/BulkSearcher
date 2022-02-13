@@ -29,7 +29,7 @@ WHAT DOES IT DO
        
    - Made for Windows
 
-   - [FREE] Source code by DeadEagle
+   - Executable & Source code by DeadEagle
     
    - This Software is [FREE] to use in ANY Case.
 
