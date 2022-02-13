@@ -17,7 +17,7 @@ WHAT DOES IT DO
  
  * Count the Keywords!
 
-     - You can also count the Keywords!, select option 2 for that.
+     - You can also count the Keywords, select option 2 for that.
 
      - As seen in the screenshots below.
 
