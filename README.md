@@ -46,8 +46,5 @@ WHAT DOES IT DO
    
    http://Coding-Community.com
    
-![alt text](https://s20.directupload.net/images/220213/rx93udmt.png)
-![alt text](https://s20.directupload.net/images/220213/f6eu6jqk.png)
+![alt text](https://s20.directupload.net/images/220213/5mrjvsk8.png)
 
-![alt text](https://s20.directupload.net/images/220213/xvqpgdti.png)
-![alt text](https://s20.directupload.net/images/220213/feko3nei.png)
