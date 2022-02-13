@@ -19,15 +19,14 @@ WHAT DOES IT DO
 
      - You can also count the Keywords!, select option 2 for that.
 
-     - Reset Hotkey's at any given time via the UI
-
      - As seen in the screenshots below.
 
      
 
       
    
-      
+ * Extra Info
+       
    - Made for Windows
 
    - [FREE] Source code by DeadEagle
