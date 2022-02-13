@@ -1,6 +1,6 @@
 ![alt text](https://s20.directupload.net/images/220109/hpwfzunf.png) Written by DeadEagle
 # BulkSearcher
-Search though files to find the Keyword your looking for!
+Search through files to find the Keyword your looking for!
 
 
 
