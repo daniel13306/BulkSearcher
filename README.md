@@ -10,7 +10,7 @@ WHAT DOES IT DO
 
  * Searching for a Keyword, but cant remember in which file its saved?
       
-    - Enter your Keyword, Filetype, and Folder location to reading through files.
+    - Enter your Keyword, Filetype, and Folder location to start reading through files.
       
     - The software will notify you if it finds your Keyword while reading through the files of your requested Filetype. (Only in your requested folder) (as seen in screenshots below)
 
